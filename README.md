@@ -1,1 +1,6 @@
-# cis246lab3
+# CIS246 Lab 3
+
+Meg Prescott
+
+November 17, 2020
+
